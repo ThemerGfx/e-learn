@@ -1,0 +1,11 @@
+.body-PageCoursNode{
+    padding-top: 30px;;
+
+}
+.active-link:active {
+    background-color: blueviolet;
+  color: white;
+}
+.cours-card{
+  padding: 15px ;
+}
